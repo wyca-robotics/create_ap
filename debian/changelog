@@ -1,0 +1,5 @@
+create-ap (1.0-1-wyca) focal; urgency=medium
+
+  * Initial release
+
+ -- Alexandre Chataignon <alexandre.chataignon@wyca.fr>  Mon, 14 Feb 2022 10:24:51 +0100
